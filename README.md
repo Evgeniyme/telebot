@@ -45,3 +45,4 @@ export TELE_TOKEN
 ```bash
 ./telebot run
 ```
+TELE_TOKEN
