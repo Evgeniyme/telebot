@@ -1,4 +1,4 @@
-# telebot
+# Telebot
 Ho to run telegram bot
 https://github.com/tucnak/telebot
 #
