@@ -54,7 +54,7 @@ to quickly create a Cobra application.`,
 
 			switch payload {
 			case "hello":
-				err = m.Send(fmt.Sprintf("Hello, I'm Telebot %s!", appVersion))
+				err = m.Send(fmt.Sprintf("Hello, I'm Telebot. My current version is  %s!", appVersion))
 			}
 
 			return err
