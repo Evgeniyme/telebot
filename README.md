@@ -1,5 +1,5 @@
 # Bot Link 
-t.me/@thegeka_promv1bot
+t.me/thegeka_promv1bot
 
 # Telebot
 Ho to run telegram bot
