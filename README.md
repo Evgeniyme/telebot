@@ -2,7 +2,7 @@
 t.me/thegeka_promv1bot
 
 # Telebot
-Ho to run telegram bot
+How to run telegram bot
 https://github.com/tucnak/telebot
 #
 1. Init go module
@@ -36,7 +36,7 @@ Without Telegram API token you should recive an error
 ./telebot run
 ``` 
 
-5. Export API tocken to variable 
+5. Export API tocken to variable TELE_TOKEN
 ```bash
 read -s TELE_TOKEN 
 CTRL+V copied token
@@ -48,4 +48,5 @@ export TELE_TOKEN
 ```bash
 ./telebot run
 ```
-TELE_TOKEN
+
+During execution, telebot will create a new telebot.Context for each incoming message, which you can use in your message handlers.
